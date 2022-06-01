@@ -1,2 +1,2 @@
 # stackLearning
-## I to learn stack .
+## I have to learn stack .
